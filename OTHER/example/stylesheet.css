@@ -1,0 +1,44 @@
+
+body{
+	background-color: #cccccc;
+}
+
+
+#Sidebar{
+height:100vh;
+width: 150px;
+border: 10px solid black;
+float: left;
+background-color: #8B8B8B;
+}
+#Spacer1{
+	float:left;
+	width: 2;
+	height:100vh;
+	}
+
+#Bodyarea{
+	padding:10px;
+	width: 70vw;
+	height:100vh;
+	margin:left-side;
+	background-color: #8B8B8B;
+	float: left;
+	border: 10px solid black;
+	
+}
+#Headboard {
+	height: 100px;
+	width: auto;
+	border: 10px solid black;
+	background-color: #8B8B8B;
+	margin:top;
+	}
+
+#HeadButton{
+	position:absolute;
+	top:5px;
+	left:5px;
+	width: 210px;
+	height: 131px;
+}	
